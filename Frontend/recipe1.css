@@ -1,0 +1,88 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RecipeCheckr</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body style="background-color:#5c2015">
+  <header class="header">
+    <a href="#" class="logo">RecipeCheckr</a>
+    <nav class="nav-items">
+      <a href="index.html">Home</a>
+      <a href="recipes.html">Find Recipes</a>
+      <a href="play_area.html">Saved Recipes</a>
+      <a href="upload.html">Upload a Recipe</a>
+      <a href="my_account.html">My Account</a>
+  </header>
+  <main>
+  <h1 style="color:#fff">Ingredients</h1>
+  <p1 style="color:#fff">3 banana (ripped)
+    <br>
+▢¾ cup sugar (or 1 cup depending on sweetness of banana)
+    <br>
+▢½ cup oil or butter
+    <br>
+▢1 tsp vanilla extract
+    <br>
+▢¾ cup all-purpose flour
+    <br>
+▢¾ cup wheat flour 
+    <br>
+▢1 tsp baking powder
+    <br>
+▢1 tsp baking soda
+    <br>
+▢¼ tsp cinnamon powder
+    <br>
+▢pinch of salt
+    <br>
+▢½ cup walnut </p>
+    <br>
+  <h1 style="color:#fff">Steps</h1>
+  <p2 style="color:#fff">1. firstly, take ripped bananas and cut them into pieces.
+    <br>
+2. also add sugar and mash the banana.
+    <br>
+3. furthermore, add oil and vanilla extract.
+    <br>
+4. also sieve all purpose flour, wheat flour, baking powder, baking soda, cinnamon powder and salt.
+    <br>
+5. blend and combine all the dry ingredients with the banana puree.
+    <br>
+6. furthermore, add walnut and fold gently.
+    <br>
+7. transfer the cake batter into the cake mould or bread mould.
+pat the tray twice to remove the air incorporated into the batter.
+    <br>
+8. place the tray into preheated oven. bake the cake at 180 degree celsius or 356 degree fahrenheit for 40 minutes.
+    <br>
+9. further, allow the cake to cool completely.
+    <br>
+10. and later cut to slices and serve.
+    <br>
+11. finally, serve the eggless & vegan banana bread or store in airtight container.
+  
+  </main>
+  <footer class="footer">
+    <div class="copy">&copy; 2023 RecipeCheckr. All Rights Reserved.</div>
+    <div class="bottom-links">
+      <div class="links">
+        <a href="index.html">Home</a>
+      <a href="recipes.html">Find Recipes</a>
+      <a href="play_area.html">Saved Recipes</a>
+      <a href="upload.html">Upload a Recipe</a>
+      <a href="my_account.html">My Account</a>
+      </div>
+
+    </div>
+  </footer>
+</body>
+
+</html>
