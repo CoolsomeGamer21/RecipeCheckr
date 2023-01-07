@@ -1,0 +1,59 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RecipeCheckr</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body style="background-color:#5c2015">
+  <header class="header">
+    <a href="#" class="logo">RecipeCheckr</a>
+    <nav class="nav-items">
+      <a href="index.html">Home</a>
+      <a href="team.html">Find Recipe</a>
+      <a href="play_area.html">Saved Recipe</a>
+      <a href="upload.html">Upload a Recipe</a>
+      <a href="my_account.html">My Account</a>
+    </nav>
+  </header>
+  <main>
+    <h1 style="color:#fff">Welcome! @Foggypirate</h1>
+    <div class="intro">
+      <p>What would you like to do today?</p>
+		<br>
+      
+      <button onclick="window.location.href = 'recipes.html';"> Find Recipes</button>
+      <br>
+      <button onclick="window.location.href = 'play_area.html';"> Saved Recipes</button>
+      <br>
+      <button>Upload a Recipe</button>
+      <br>
+      <button>Try Recipe premium</button>
+      <br>
+      
+     
+    
+  </main>
+  <footer class="footer">
+    <div class="copy">&copy; 2022 RecipeCheckr. All Rights Reserved.</div>
+    <div class="bottom-links">
+      <div class="links">
+        <span>More Info</span>
+       <a href="index.html">Home</a>
+      <a href="team.html">Find Recipe</a>
+      <a href="play_area.html">Saved Recipe</a>
+      <a href="upload.html">Upload a Recipe</a>
+      <a href="my_account.html">My Account</a>
+      </div>
+      
+    </div>
+  </footer>
+</body>
+
+</html>
